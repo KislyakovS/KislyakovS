@@ -1,1 +1,1 @@
-[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/KislyakovS)
+[![Profile badge](https://www.codewars.com/users/KislyakovS/badges/large)](https://www.codewars.com/users/KislyakovS)
